@@ -1,1 +1,2 @@
+#include "Character.h"
 wtf again for just for test sake
